@@ -1,0 +1,2 @@
+# fake-news-detection
+This project investigates methods for detecting fake news on social media platforms. Using natural language processing (NLP) and a Support Vector Machine (SVM) classifier, the model achieves ~80% accuracy in distinguishing between factual and fake news articles. The workflow includes data cleaning, exploratory analysis, model training, evaluation with precision/recall/F1, and visualization of results. The project demonstrates how data science can support trust and safety teams in identifying misleading content.
